@@ -1,4 +1,3 @@
-strategy,elapsed_time,error
-HighPower,30.2146,11.4
-LowPower,5.659,21.1
-MediumPower,18.7638,13.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:10c7c3ab2e8a8edaa9b10c2165368a87ce77b8b467f93b3854490744c48ee628
+size 96
