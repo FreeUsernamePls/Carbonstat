@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 plt.style.use('seaborn-v0_8-darkgrid')
 
 error_mapping = {
-    "LOW_POWER": 8.3,
+    "LOW_POWER": 8.7,
     "HIGH_POWER": 2.5
 }
 
